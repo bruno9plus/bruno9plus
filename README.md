@@ -32,7 +32,7 @@
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=brteofanes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Frase de Programadores aleatório em inglês
+### ✍️ Frase de Programadores aleatório em inglês:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Repositório Top em Contribuições
