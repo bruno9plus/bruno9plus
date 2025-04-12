@@ -1,6 +1,6 @@
 <img src = "novinhaprofile.png" alt = "banner-youtube" width = "100%"/>
 
-# 💫 Olá, Mundo! Eu sou o Teo, brasileiro desenvolvedor web 👋🏼:
+# 💫 Olá, Mundo! Eu sou o Teo, brasileiro desenvolvedor web 👋🏼:<br>
 
 
 ## 🌐 Sociais:
