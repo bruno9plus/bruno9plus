@@ -1,5 +1,10 @@
 <img src="thumbnail.png" alt="banner-youtube" width="100%" />
 
+<div align="center">
+  <img src="Painelanimado.gif" width="150" alt="Bonequinha animada" />
+</div>
+
+
 # Olá, Mundo! Eu sou o Teo, Brasileiro Desenvolvedor Web 👋🏼:
 
 
