@@ -1,7 +1,7 @@
 <img src="thumbnail.png" alt="banner-youtube" width="100%" />
 
 <div align="center">
-  <img src="Painelanimado.gif" width="150" alt="Bonequinha animada" />
+  <img src="Painelanimado.gif" width="150" alt="animaçãozinha-pixelada" />
 </div>
 
 
