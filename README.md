@@ -11,7 +11,6 @@
 ## 🌐 Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brteofanes) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-teofanes-8b6915352/) 
 [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brteofanes)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/brteofanes/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brteofanes) 
