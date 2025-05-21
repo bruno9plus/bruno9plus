@@ -1,7 +1,7 @@
 <img src="thumbnail.png" alt="banner-youtube" width="100%" />
 
 
-# Olá, Mundo! Eu sou o Teo, Brasileiro Desenvolvedor Web 👋🏼:
+# Olá, Mundo! Me chamo Bruno, Brasileiro Desenvolvedor Web 👋🏼:
 
 
 ## 🌐 Sociais:
