@@ -7,7 +7,7 @@
 ## 🌐 Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/9plus_9_) 
-[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brteofanes)
+[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brunosantossvg)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/9plus_/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bruno9plus) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bruno9plus)
