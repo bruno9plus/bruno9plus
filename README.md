@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/9plus_9_) 
 [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brteofanes)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/brteofanes/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brteofanes) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bruno9plus) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bruno9plus)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://www.notion.so/Ainda-vou-criar-minha-apresenta-o-1d769659ebb280b6a252ebf5a18d1d5c?pvs=4)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunosantossvg@gmail.com)
