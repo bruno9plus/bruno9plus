@@ -1,4 +1,9 @@
-<img src="thumbnail.png" alt="banner-youtube" width="100%" />
+
+<div align="center">
+  <a href="https://www.youtube.com/@bruno9plus">
+    <img src="para github.png" alt="ícone para o youtube" height="400" width="400"/>
+  </a>
+</div>
 
 
 # Olá, Mundo! Me chamo Bruno, Brasileiro Desenvolvedor Web 👋🏼:
