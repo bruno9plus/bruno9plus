@@ -1,12 +1,5 @@
 
-<div align="center">
-  <a href="https://www.youtube.com/@bruno9plus">
-    <img src="para github.png" alt="ícone para o youtube" height="400" width="400"/>
-  </a>
-</div>
-
-
-# Olá, Mundo! Me chamo Bruno, Brasileiro Desenvolvedor Web 👋🏼:
+# Olá, Mundo! Me chamo Bruno mas pode me chamar de Bonru San, Bonru San é meu nome artístico, não sou famoso mas um dia vou ser, Brasileiro Desenvolvedor Web 👋🏼:
 
 
 ## 🌐 Sociais:
